@@ -46,7 +46,7 @@ hr{
     animation: sky-turns-black 4s infinite;
 }
 .my-img{
-    background-image: url(/me.jpeg);
+    background-image: url(me.jpeg);
     background-size: cover;
     width: 180px;
     height: 180px;
@@ -91,7 +91,7 @@ h4{
     width: 100px;
   }
   .my-img2{
-    background-image: url(/me.jpeg);
+    background-image: url(me.jpeg);
     background-size: cover;
     width: 230px;
     height: 230px;
